@@ -1,16 +1,23 @@
-# m3_w2_d2
+# 📝 Flutter Note-Taking App
 
-A new Flutter project.
+A simple note-taking mobile application built with Flutter and SQLite. Users can create, view, and delete notes using a clean and intuitive interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Create new notes with a title and content
+- View all saved notes in a list
+- Delete notes using swipe gestures
+- Offline data persistence using SQLite
+- Responsive and clean UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠 Tech Stack
+
+- **Flutter**: UI toolkit for building natively compiled applications
+- **Sqflite**: SQLite plugin for Flutter
+- **Path**: For database path handling
+
+
